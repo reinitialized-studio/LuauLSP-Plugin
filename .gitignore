@@ -1,0 +1,14 @@
+/roblox.rbxlx
+
+/*.rbxlx.lock
+/*.rbxl.lock
+**/sourcemap.json
+**/*.rbx[lm]*
+
+sourcemap.json
+roblox.yml
+roblox.toml
+globalTypes.d.lua
+out
+
+.DS_Store
